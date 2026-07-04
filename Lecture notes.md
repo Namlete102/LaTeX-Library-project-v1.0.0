@@ -1535,6 +1535,7 @@ Nhà vật lý người Pháp Émile Clapeyron (Bên trái) và nhà hóa học
 </div>
 
 ---
+
 ### Kí hiệu, chữ cái toán học  
 
 Để viết kí hiệu, chữ cái toán học ở chế độ là `inline math`, cũng như là `display math`, người dùng chỉ cần viết chúng ở bên trong các các cặp kí hiệu, môi trường mà người viết đã trình bày ở [`inline math`, `display math`](). 
@@ -1553,7 +1554,7 @@ Ví dụ về công thức tính định thức tổng quát của một ma trâ
 Người dùng có thể thấy, trong công thức tính định thức của Leibniz có chữ cái Hy Lạp là $\sigma$ (đọc là sigma) được dùng để quy ước về khái niệm phép thế (?) trong lĩnh vực đại số của toán học. 
 
 $$
-    \mathrm{det}(A) = \sum_{\sigma \in S_n} sgn(\sigma) \prod_{k = 1}^{n} \left (a_{k\sigma(k)}\right )
+\mathrm{det}(A) = \sum_{\sigma \in S_n} sgn(\sigma) \prod_{k = 1}^{n} \left (a_{k\sigma(k)}\right )
 $$
 
 <div align="center">
@@ -1713,9 +1714,7 @@ A \times B = \{(a,b)|a \in A, b \in B\}
 
 Kết quả nhận được từ ví dụ trên sẽ là: 
 
-$$
-A \times B = \{ \ (a,b) \ | \ a \ \in \ A, \ b \ \in \ B\}
-$$
+$$A \times B = \{ \ (a,b) \ | \ a \ \in \ A, \ b \ \in \ B\}$$
 
 <div align="center">
 
