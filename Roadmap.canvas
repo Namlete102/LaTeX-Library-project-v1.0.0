@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"ce4c895ed37d5393","type":"text","text":"Introduction","x":-720,"y":-80,"width":250,"height":60,"color":"6"},
+		{"id":"3afe1a3d98c227c2","type":"text","text":"Trình soạn thảo Overleaf","x":-320,"y":-80,"width":280,"height":60,"color":"4"},
+		{"id":"ff1e46aa1777d88d","type":"text","text":"Mục tiêu của phiên bản 1.0.0 này là sử dụng trình soạn thảo Overleaf thực tuyến để thực hành các lệnh LaTeX. ","x":-320,"y":60,"width":280,"height":260,"color":"5"},
+		{"id":"08ab17cb4035cb60","type":"file","file":"LaTeX-Library-project-1.0.0/About.md","x":-720,"y":60,"width":250,"height":260},
+		{"id":"faa9dcd6ca4c8e91","type":"text","text":"__ Thư viện này được tạo ra nhằm cố gắng tổng hợp các bài học của LaTeX nhằm giúp người học dễ dàng xác định những bước đi cơ bản khi học về ngôn ngữ đánh dấu này để phục vụ cho công việc của mỗi người dùng. ","x":-720,"y":480,"width":250,"height":120,"color":"5"},
+		{"id":"940546116ce95852","type":"text","text":"Thư viện LaTeX 1.0.0","x":-720,"y":-800,"width":250,"height":60,"color":"2"},
+		{"id":"a1b01c44b3bb81bc","type":"text","text":"Viết các bài học (Reading) ","x":-80,"y":-800,"width":250,"height":60,"color":"6"},
+		{"id":"9cb75dc86c49c61a","type":"file","file":"LaTeX-Library-project-1.0.0/Lecture notes.md","x":220,"y":-833,"width":220,"height":126},
+		{"id":"e9a1ba7c17f572fc","type":"text","text":"Thiết kế trang web (sách)","x":-80,"y":-640,"width":250,"height":60,"color":"5"},
+		{"id":"e0d7f97c17f8bf23","type":"text","text":"Thiết kế bìa dự án","x":-80,"y":-500,"width":250,"height":60,"color":"3"},
+		{"id":"e8a79224bb18ab80","type":"text","text":"Chia sẻ với các mọi ","x":-80,"y":-360,"width":250,"height":60,"color":"2"},
+		{"id":"961f617e6e724826","type":"text","text":"__ Cấu trúc của LaTeX. (phù hợp với lớp tài liệu là letter và article).\n\n__ Đối với một tài liệu mà có nhiều tác giả, bên cạnh đó là thông tin như nơi làm việc hiện tại thì phần `\\author` sẽ được xử lí như thế nào ? (đã xong đại loại vậy).\n\n__ Kiểu chữ (font style), Phông chữ (font family), thay đổi kích cỡ chữ (font size). \n\n__ Môi trường liệt kê có đánh số và ko đánh số có `\\item` có tối đa bao nhiêu mức khi có danh sách lồng là chính nó ? \n\n__ Danh sách mô tả là gì ? Chúng được dùng cho khi nào ? \n\n__ Chú thích (footnote) cuối trang trong tài liệu. \n\n__ Các vấn đề về chèn gồm chèn mục lục, ảnh, bảng, quote, chèn toán học, chèn định lý (bên cạnh đó còn chứng minh, bổ đề, định nghĩa), \n\n__ Nhãn và tham chiếu chéo. \n\n__ Thiết kế đầu trang (header) và chân trang (footer). ","x":1640,"y":90,"width":1080,"height":510,"color":"5"},
+		{"id":"67a3f3f3e559e038","type":"text","text":"Các bài học cần được bổ sung trong thư viện (tổng hợp tại đây và phân loại ở [[Issues]])","x":1200,"y":-105,"width":400,"height":110,"color":"2"},
+		{"id":"a8ab9d97b11bb6da","type":"text","text":"Các phần bài học hiện tại ","x":240,"y":-80,"width":640,"height":60,"color":"5"},
+		{"id":"eb1987555dc2d4fe","type":"text","text":"+) Các loại chú thích\n\n+) Cấu trúc Latex \n\n+) Môi trường tổng quát Latex\n\n+) Lệnh Latex\n\n+) Các kí tự đặc biệt\n\n+) Cách phân chia và quản lý bài viết.\n\n+) Các đơn vị được sử dụng trong Latex.","x":240,"y":228,"width":640,"height":372,"color":"4"},
+		{"id":"fe1d8cd11c5ae47d","type":"text","text":"**Phần soạn thảo văn bản:**\n\n+) Biên tập phần đầu (header) và cuối trang (footer)\n\n+) Biên tập phần mục lục (chung ý tưởng với Tựa đề, các chương, các mục.) ✅\n\n+) Bố cục của trang\n\n+) Tham chiếu chéo\n\n+) Ngắt trang\n\n+) Tựa đề, các chương, các mục. (trang 29) ✅\n\n+) Lời tựa\n\n+) Trích dẫn và các đoạn thơ\n\n+) Chú thích ở chân trang\n\n+) Gõ chữ (in đậm, nghiêng, gạch chân dưới, ngang, )\n\n+) Phông chữ (Times New Roman. .vv. .)\n\n+) Căn chỉnh lề văn bản\n\n+) Chữ ghép và gạch nối\n\n+) Các từ nhấn mạnh\n\n+) Thụt lề\n\n+) Khoảng cách giữa các hàng; chữ\n\n+) Ngắt đoạn.\n\n+) Dấu trích dẫn; dấu gạch và dấu ngắt quãng; dấu trọng âm; dấu ba chấm.\n\n+) Viết tài liệu tham khảo\n\n+) Viết code bên ngoài vào tài liệu\n\n+) Chèn hình ảnh\n\n+) Danh sách có thứ tự và không có thứ tự; Danh sách mô tả.\n\n+) Bảng","x":240,"y":860,"width":640,"height":640,"color":"3"},
+		{"id":"bf06b09e2d818f82","type":"file","file":"LaTeX-Library-project-1.0.0/Lecture notes.md","x":240,"y":1640,"width":640,"height":440}
+	],
+	"edges":[
+		{"id":"88dd693973180e89","fromNode":"940546116ce95852","fromSide":"bottom","toNode":"ce4c895ed37d5393","toSide":"top","label":"Lecture"},
+		{"id":"fb34547a3466dee3","fromNode":"ce4c895ed37d5393","fromSide":"right","toNode":"3afe1a3d98c227c2","toSide":"left"},
+		{"id":"d707c3aa8bc5bd9f","fromNode":"3afe1a3d98c227c2","fromSide":"right","toNode":"a8ab9d97b11bb6da","toSide":"left"},
+		{"id":"863452c0644cf2c0","fromNode":"3afe1a3d98c227c2","fromSide":"bottom","toNode":"ff1e46aa1777d88d","toSide":"top"},
+		{"id":"f031e8495ad001a5","fromNode":"a8ab9d97b11bb6da","fromSide":"right","toNode":"67a3f3f3e559e038","toSide":"left"},
+		{"id":"8642912801bafce2","fromNode":"67a3f3f3e559e038","fromSide":"bottom","toNode":"961f617e6e724826","toSide":"left"},
+		{"id":"698d040267f79bb0","fromNode":"08ab17cb4035cb60","fromSide":"bottom","toNode":"faa9dcd6ca4c8e91","toSide":"top"},
+		{"id":"5cebf12eb6a6ee8d","fromNode":"ce4c895ed37d5393","fromSide":"bottom","toNode":"08ab17cb4035cb60","toSide":"top"},
+		{"id":"71c772fbb12b0611","fromNode":"940546116ce95852","fromSide":"right","toNode":"a1b01c44b3bb81bc","toSide":"left","label":"Lộ trình dự án"},
+		{"id":"9c6ac4a4c8cf1477","fromNode":"a1b01c44b3bb81bc","fromSide":"bottom","toNode":"e9a1ba7c17f572fc","toSide":"top"},
+		{"id":"cd6b50f9dd39d6a8","fromNode":"e9a1ba7c17f572fc","fromSide":"bottom","toNode":"e0d7f97c17f8bf23","toSide":"top"},
+		{"id":"afdc5fc584e494df","fromNode":"e0d7f97c17f8bf23","fromSide":"bottom","toNode":"e8a79224bb18ab80","toSide":"top"},
+		{"id":"7cd7c4ef59ab9088","fromNode":"a1b01c44b3bb81bc","fromSide":"right","toNode":"9cb75dc86c49c61a","toSide":"left"},
+		{"id":"01c264c864c8194a","fromNode":"fe1d8cd11c5ae47d","fromSide":"bottom","toNode":"bf06b09e2d818f82","toSide":"top"},
+		{"id":"d09b2558dfcd6dd8","fromNode":"a8ab9d97b11bb6da","fromSide":"bottom","toNode":"eb1987555dc2d4fe","toSide":"top","label":"Những điều mở đầu Latex"},
+		{"id":"66869e273d2188f6","fromNode":"eb1987555dc2d4fe","fromSide":"bottom","toNode":"fe1d8cd11c5ae47d","toSide":"top","label":"Phần soạn thảo văn bản"}
+	]
+}
