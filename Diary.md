@@ -1,3 +1,7 @@
 # **22/06/2026**: 
 
 Tôi nghĩ ngợi và bắt tay làm dự án này trong lúc tôi nghỉ học đại học ngay từ giữa năm nhất.  Điều này thật tệ đối với người nhà của tôi khi họ hay tin về điều đó, nhưng với bản thân tôi điều đó cũng thật tuyệt, vì nó đang là cách làm nháp cho việc nghĩ đến việc viết một số tài liệu toán, khoa học dành cho người Việt của tôi thay vì chúng ta cứ mãi chạy theo đám phương Tây đấy, dù thú thật là những gì tôi học và phong cách viết cũng phát triển từ chúng nó mà nên. Hơn nữa, những gì bọn ấy làm đối với tôi mà nói là quá tốt và quá khủng khiếp, khiến nhiều khi tôi nhìn lên trần nhà và chất vấn bản thân liệu bao giờ tôi mới thoát khỏi cái gót chân của chúng nó. Điều đó thật tệ những cũng thật thú vị khi trước mắt tôi là thời gian tuổi trẻ hết mình để tự tìm cho mình câu trả lời cho nỗi băn khoăn đó của tôi. 
+
+# **05/07/2026**:
+
+Tôi vừa nghĩ thêm việc chúng ta tạo một trang wiki ở github để chứa giải thích các thuật ngữ khác có ảnh hưởng đến hiểu biết đến bài học LaTeX. 
