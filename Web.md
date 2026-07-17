@@ -13,7 +13,8 @@ Thiết kế banner bằng Figma dựa trên ý tưởng làm thumbnail từ vid
 
 <center>
 <figure>
-    <img src="LaTeX-Library-project-1.0.0/Images/banner.jpg"
+    <img src="LaTeX-Library-project-v1.0.0/images/banner.jpg"
          alt="banner">
 </figure>
 </center>
+
