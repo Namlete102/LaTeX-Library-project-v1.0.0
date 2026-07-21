@@ -1693,9 +1693,13 @@ $$
 
 Trong một số tài liệu toán học, đôi khi người dùng cũng thế thấy rằng số thứ tự được đánh bên cạnh phần toán học đó nằm ở bên trái thay vì bên phải như ở hình dưới đây
 
-![](LaTeX-Library-project-v1.0.0/images/Kakeya.jpg)
+<div align="center"> 
 
-(Ảnh được cắt từ trang 1 bài báo toán học "[A STREAMLINED PROOF OF THE KAKEYA SET CONJECTURE IN $\mathbb{R^3}$](https://drive.google.com/file/d/1dlpgd5Q5AAOsaCFQK5MGRisJNUPmgxFu/view?usp=sharing) của ba nhà toán học [Larry Guth](https://math.mit.edu/~lguth/), [Hong Wang](https://sites.google.com/view/hongwang/home), [Joshua Zahl](https://jzahl.github.io/)) 
+<img src="LaTeX-Library-project-v1.0.0/images/Kakeya.jpg" alt="John Napier">
+
+Ảnh được cắt từ trang 1 bài báo toán học <a src="https://drive.google.com/file/d/1dlpgd5Q5AAOsaCFQK5MGRisJNUPmgxFu/view?usp=sharing" target="_blank">"A STREAMLINED PROOF OF THE KAKEYA SET CONJECTURE IN $\mathbb{R^3}$</a> của ba nhà toán học <a src="https://math.mit.edu/~lguth/" target="_blank">Larry Guth</a>, <a src="https://sites.google.com/view/hongwang/home" target="_blank">Hong Wang]</a>, <a src="https://jzahl.github.io/" target="_blank">Joshua Zahl</a>
+
+</div>
 
 (? ảnh ba nhà toán học trên)
 
