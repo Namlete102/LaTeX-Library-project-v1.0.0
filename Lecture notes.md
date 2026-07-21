@@ -1690,9 +1690,11 @@ $$
 \log_b{xy} = \log_b{x} + \log_b{y}
 \end{equation}
 $$
+
 Trong một số tài liệu toán học, đôi khi người dùng cũng thế thấy rằng số thứ tự được đánh bên cạnh phần toán học đó nằm ở bên trái thay vì bên phải như ở hình dưới đây
 
 ![](LaTeX-Library-project-v1.0.0/images/Kakeya.jpg)
+
 (Ảnh được cắt từ trang 1 bài báo toán học "[A STREAMLINED PROOF OF THE KAKEYA SET CONJECTURE IN $\mathbb{R^3}$](https://drive.google.com/file/d/1dlpgd5Q5AAOsaCFQK5MGRisJNUPmgxFu/view?usp=sharing) của ba nhà toán học [Larry Guth](https://math.mit.edu/~lguth/), [Hong Wang](https://sites.google.com/view/hongwang/home), [Joshua Zahl](https://jzahl.github.io/)) 
 
 (? ảnh ba nhà toán học trên)
