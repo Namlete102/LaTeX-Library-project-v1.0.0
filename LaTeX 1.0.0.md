@@ -8,7 +8,7 @@ Các vấn đề khi viết LaTeX: [[Issues]]
 
 Lưu trữ các bài học ở Github đây: https://github.com/Namlete102/LaTeX-Library-project-1.0.0
 
-Test các đoạn mã trên [overleaf.com](http://overleaf.com/):  https://www.overleaf.com/project/69a54d440346ebcb27945d5d 
+Chạy thử các đoạn mã trên [overleaf.com](http://overleaf.com/):  https://www.overleaf.com/project/69a54d440346ebcb27945d5d 
 
 Viết bài học:  [[Lecture notes]] 
 
